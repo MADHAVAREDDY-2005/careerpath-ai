@@ -29,11 +29,16 @@ This project helps students by analyzing their current skills and interests, the
 
 ## 📂 Project Structure
 careerpath-ai/
-│── backend/ # Flask backend APIs
-│── frontend/ # React + Tailwind frontend
-│── database/ # SQLite/skills datasets
-│── requirements.txt
-│── README.md
+
+  │── backend/ # Flask backend APIs
+
+  │── frontend/ # React + Tailwind frontend
+
+  │── database/ # SQLite/skills datasets
+
+  │── requirements.txt
+  
+  │── README.md
 
 ---
 
